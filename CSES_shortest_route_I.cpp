@@ -24,7 +24,6 @@ int32_t main(){
         int a,b,x;
         cin >> a >> b >> x;
         g[a].push_back({b,x});
-        g[b].push_back({a,x});
     }
     //dijkstra
     vector<int> dis(n+1,INF);
