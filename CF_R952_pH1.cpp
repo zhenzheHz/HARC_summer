@@ -1,6 +1,6 @@
 //Author : Zhenzhe
 //Time : 2024/07/18(Thu)
-//Problem : https://codeforces.com/contest/1985/problem/H-1
+//Problem : https://codeforces.com/contest/1985/problem/H1
 #include <bits/stdc++.h>
 #define int int64_t
 #define FASTIO ios_base::sync_with_stdio(0);cin.tie(0)
